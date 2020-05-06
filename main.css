@@ -1,0 +1,207 @@
+body {
+    background-color: white;
+    font-family: Arial;
+    font-size: 26px;
+    color: #1c4966;
+}
+
+h1 {
+    margin-bottom: 40px;
+    color: black;
+}
+
+h2 {
+    margin: auto;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    font-family: Georgia;
+    color: black;
+}
+
+table {
+    border: 2px solid black;
+    width: 100%;
+    text-align: justify;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+img {
+    border-radius: 50%;
+    border: white solid 5px;
+    box-shadow: darkgrey 0 0 0 5px;
+}
+
+.a-menu {
+    color: #bbbbbb;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+.a-sosmed {
+    color: grey;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.main-table {
+    width: 60%;
+    margin: auto;
+    background-color: #d3d3d3;
+    font-family: 'Times New Roman';
+}
+
+div.dua {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+div.border {
+    border-bottom: 7px dotted #bbbbbb;
+    height: 0;
+    width: 5%;
+    margin: auto;
+}
+
+div.dua-text {
+    text-align: justify;
+    display: inline-block;
+}
+
+div.dua-text span.right {
+    display: block;
+    margin-right: 50px;
+}
+
+div.dua-text span.left {
+    display: block;
+    margin-left: 50px;
+}
+
+div.dua-text span h2 {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+div.dua-text div {
+    display: flex;
+    margin-left: 20px;
+}
+
+img.float-left {
+    float: left;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+img.float-right {
+    float: right;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.div-profile-desc {
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.div-header-menu {
+    float: right;
+}
+
+.div-footer-menu {
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+}
+
+.div-footer-menu ul {
+    padding-left: 0;
+}
+
+.div-footer-menu ul .a-menu {
+    margin-right: 15px;
+    margin-left: 0;
+}
+
+.div-header {
+    background-image: url('bc.jpg');
+    background-size: cover;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-right: 5%;
+    padding-bottom: 200px;
+}
+
+.div-header img {
+    box-shadow: none;
+    border: ;
+}
+
+.div-body {
+    background-image: url('bbc.jpg');
+    background-size: cover;
+    padding-bottom: 50px;
+}
+
+.div-footer {
+    background-image: url('bc.jpg');
+    background-size: cover;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-right: 5%;
+    padding-bottom: 150px;
+}
+
+.p-div-dua-text {
+    margin-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    color: darkgrey;
+}
+
+#div-header-name {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#div-header-name p {
+    color:grey;
+    font-family: 'Courier New';
+    font-size: 30px;
+}
+
+#div-header-name h3 {
+    color:grey;
+    font-family: 'Courier New';
+    font-size: 40px;
+}
+
+
+#profile-mahasiswa {
+    text-align: center;
+    font-family: 'Georgia';
+    font-size: 28px;
+}
+
+#profile-mahasiswa ul {
+    padding: 0;
+    padding-bottom: 0;
+    list-style-type: none;
+}
+
+#hubungi-saya {
+    margin: auto;
+}
